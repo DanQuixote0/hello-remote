@@ -1,1 +1,3 @@
 Here is some text we are adding into demo.txt
+
+This has now been edited! (and in VS Code no less)
